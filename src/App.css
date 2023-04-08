@@ -25,22 +25,16 @@ pre {
   overflow: auto;
 }
 
-.string {
-  color: green;
+.string,
+.null,
+.boolean {
+  color: #ce9178;
 }
 
 .number {
-  color: darkorange;
-}
-
-.boolean {
-  color: blue;
-}
-
-.null {
-  color: magenta;
+  color: #b5cea8;
 }
 
 .key {
-  color: red;
+  color: #9cdcfe;
 }
